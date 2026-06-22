@@ -1,3 +1,3 @@
-# OOP, SOLID and Development Principles
+# OOP, SOLID and Development Principles and course on JS
 
-Репозиторий содержит решения практических задач по курсу OOP, SOLID and Development Principles.  
+Репозиторий содержит решения практических задач по курсам OOP, SOLID and Development Principles и JS.
